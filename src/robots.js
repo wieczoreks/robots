@@ -1,0 +1,64 @@
+export const robots = [
+{
+	id:2,
+	name:'Sebastian',
+	username:'seb',
+	email:'seb@hot.com'
+},
+{
+	id:1,
+	name:'John',
+	username:'jo',
+	email:'john@hot.com'
+},
+{
+	id:3,
+	name:'Marry',
+	username:'mar',
+	email:'marry@hot.com'
+},
+{
+	id:4,
+	name:'Natalie',
+	username:'nat',
+	email:'natalie@hot.com'
+},
+{
+	id:5,
+	name:'Julia',
+	username:'jul',
+	email:'julia@hot.com'
+},
+{
+	id:10,
+	name:'Francesca',
+	username:'fran',
+	email:'francesca@hot.com'
+},
+{
+	id:8,
+	name:'Roger',
+	username:'rog',
+	email:'roger@hot.com'
+},
+{
+	id:7,
+	name:'Dick',
+	username:'dic',
+	email:'dick@hot.com'
+},
+
+{
+	id:9,
+	name:'Jenny',
+	username:'jen',
+	email:'jenny@hot.com'
+},
+{
+	id:6,
+	name:'Beatka',
+	username:'Bea',
+	email:'Bea@hot.com'
+}
+
+];
